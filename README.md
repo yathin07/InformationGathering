@@ -2,7 +2,8 @@
 Information Gathering Techiques
 
 # To perform information gathering techniques
-
+## Name: Yathin Reddy T
+## Reg num: 212223100062
 # AIM:
 
 To perform information gathering techniques using kali linux 
