@@ -1,9 +1,9 @@
-
+# InformationGathering
 Information Gathering Techiques
-
+## Name: Shanmuga Raj.K
+## Reg no: 212223040192
 # To perform information gathering techniques
-## Name: Yathin Reddy T
-## Reg num: 212223100062
+
 # AIM:
 
 To perform information gathering techniques using kali linux 
@@ -23,27 +23,24 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-
-## whois.com:
-![image](https://github.com/user-attachments/assets/56266c21-ddf5-4977-957e-4f4c7a14f00c)
+## Whois.com :
+![alt text](<Screenshot 2025-04-26 090131-1.png>)
 ## iplocator :
-![image](https://github.com/user-attachments/assets/e683625b-c116-4c4d-b4f3-3be03a84664f)
+![alt text](<Screenshot 2025-04-26 090141-1.png>)
 ## Webarchive :
-![image](https://github.com/user-attachments/assets/b3cae6a7-c79c-4a19-843d-d1bcae4fb940)
+![alt text](<Screenshot 2025-04-26 090207-1.png>)
 ## nmap :
-![Screenshot 2025-04-07 132645](https://github.com/user-attachments/assets/8f68bf09-0519-4a41-b4dc-11e6a4ac890b)
-
+![alt text](<Screenshot 2025-04-26 090213-1.png>)
 ## Whatweb :
-![Screenshot 2025-04-07 132935](https://github.com/user-attachments/assets/533adaef-2d6e-4f50-8174-2e24cb449e24)
+![alt text](<Screenshot 2025-04-26 090219-1.png>)
 ## Traceroute :
-![image](https://github.com/user-attachments/assets/bb491be9-ad2b-4862-9e30-a23c89f29ba9)
+![alt text](<Screenshot 2025-04-26 090225-1.png>)
 ## Ping :
-![image](https://github.com/user-attachments/assets/8be454da-7c8c-4c58-90ac-d95414c00e12)
+![alt text](<Screenshot 2025-04-26 090234-1.png>)
 ## Netcat :
-![image](https://github.com/user-attachments/assets/f5987d49-cdc4-49be-afdb-50c9b3ebd8b4)
+![alt text](<Screenshot 2025-04-26 090241-1.png>)
 ## UDP AND ICMP Traceroute :
-![image](https://github.com/user-attachments/assets/db55bafd-44e8-4fdf-86d4-2ff119990964)
-![image](https://github.com/user-attachments/assets/2d3d4849-9ebe-44b4-8b97-c747b61c9d4a)
-
+![alt text](<Screenshot 2025-04-26 090247-1.png>)
+![alt text](<Screenshot 2025-04-26 090255-1.png>)
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
